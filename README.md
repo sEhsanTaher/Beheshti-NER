@@ -11,12 +11,18 @@ In this paper, we use the pretrained deep bidirectional network, BERT, to make a
 # Citation
   you can cite to this work with this:
 ```
-@misc{taher2020beheshtiner,
-  title={Beheshti-NER: Persian Named Entity Recognition Using BERT},
-  author={Ehsan Taher and Seyed Abbas Hoseini and Mehrnoush Shamsfard},
-  journal={arXiv},
-  year={2019},
-  volume={abs/2003.08875}
+@inproceedings{taher-etal-2019-beheshti,
+    title = "Beheshti-{NER}: {P}ersian named entity recognition Using {BERT}",
+    author = "Taher, Ehsan  and
+      Hoseini, Seyed Abbas  and
+      Shamsfard, Mehrnoush",
+    booktitle = "Proceedings of The First International Workshop on NLP Solutions for Under Resourced Languages (NSURL 2019) co-located with ICNLSP 2019 - Short Papers",
+    month = "11--12 " # sep,
+    year = "2019",
+    address = "Trento, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2019.nsurl-1.6",
+    pages = "37--42",
 }
 ```
 # Usage
