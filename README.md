@@ -1,6 +1,6 @@
 # Beheshti-NER
 ## Beheshti-NER: Persian named entity recognition Using BERT
-paper:this [arxiv link](https://arxiv.org/abs/2003.08875) or [researchgate link](https://www.researchgate.net/publication/335812414_Beheshti-NER_Persian_named_entity_recognition_Using_BERT)
+paper: [ACL web link](https://www.aclweb.org/anthology/2019.nsurl-1.6)
 
 Named entity recognition is a natural language processing task to recognize and extract spans of text associated with named entities and classify them in semantic Categories. 
 
