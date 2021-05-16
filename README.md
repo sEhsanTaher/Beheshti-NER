@@ -27,10 +27,8 @@ In this paper, we use the pretrained deep bidirectional network, BERT, to make a
 ```
 # Usage
 ## STEPs before use:
-1. Clone this repo by:
-```SHELL
-git clone https://github.com/sEhsanTaher/Beheshti-NER.git
-```
+0. Download this zip file (contains source code and model):
+[Beheshti_NER_final.zip](https://www.dropbox.com/s/3ytftpz3l8ucy1u/Beheshti_NER_final.zip?dl=0)
 
 1. Create a new python3 virtual environment with run this command(replace the venv path before run!): 
 ```SHELL
