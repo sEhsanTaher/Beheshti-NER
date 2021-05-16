@@ -47,7 +47,7 @@ python3 -m venv /path/to/new/virtual/environment
   + All files MUST be in CONLL format.(example in end of this file!)
   + The filenames don't matter BUT SHOULD end with ".txt"
 6. create a folder in BERT-NER directory for NER outputs (for example output_folder)
-  + NER results will be posted here after running Step 7! The filenames will not be changed BUT file formats will be changing from ".txt" to ".predict". 
+  + NER results will be placed here after running Step 7! The filenames will not be changed BUT file formats will be changing from ".txt" to ".predict". 
 7. Run this command for start NER tagging (please replace folder names input_folder & output_folder according to steps 4&6):   
   ```shell
 python3 main.py input_folder output_folder
